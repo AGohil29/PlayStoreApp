@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlayStoreApp</string>
+    <string name="sample_title">Sample title</string>
+    <string name="btnMore">more</string>
+</resources>
